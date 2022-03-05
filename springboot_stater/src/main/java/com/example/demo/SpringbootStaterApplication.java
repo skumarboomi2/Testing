@@ -8,6 +8,8 @@ public class SpringbootStaterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootStaterApplication.class, args);
+		
+		System.out.println("First project");
 	}
 
 }
