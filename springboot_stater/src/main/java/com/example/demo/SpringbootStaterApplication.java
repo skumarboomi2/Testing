@@ -10,6 +10,7 @@ public class SpringbootStaterApplication {
 		SpringApplication.run(SpringbootStaterApplication.class, args);
 		
 		System.out.println("First project");
+		System.out.println("Git_bash");
 	}
 
 }
