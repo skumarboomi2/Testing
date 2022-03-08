@@ -16,9 +16,9 @@ public class SpringbootStaterApplication {
 		System.out.println("GitBash 3");
 		System.out.println("GitBash04");
 		System.out.println("GitHub 05");
-		System.out.println("Git BAsh 07");
+   	System.out.println("Git BAsh 07");
 		System.out.println("STS Push 01");
 		
-	}
+
 
 }
